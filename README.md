@@ -14,6 +14,3 @@
 ![](https://komarev.com/ghpvc/?username=truongtuocphi&label=Visitors+Count&color=brightgreen)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=truongtuocphi&theme=react&hide_border=true)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=truongtuocphi&icon=0&color=0)](https://visitcount.itsvg.in)
