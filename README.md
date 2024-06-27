@@ -9,6 +9,3 @@
 
 ## Github Contributes
 ![](https://github-readme-stats.vercel.app/api?username=truongtuocphi&hide_border=false&include_all_commits=false&count_private=true&theme=dark)<br/>
-
----
-![](https://github-readme-streak-stats.herokuapp.com/?user=truongtuocphi&theme=react&hide_border=true)<br/>
